@@ -1,4 +1,5 @@
 package one.digitalinnovation.collections
+import kotlin.Array
 
 fun main(){
     val nomes = Array(3){""}
